@@ -7,5 +7,26 @@ hr{
     border-top-style: inset;
     border-color: #FC28FB;
     border-width: 3px;
+}
 
+h1{
+    color: #ec84ec;
+    font-size: 500%;
+    margin-bottom: 0%;
+}
+
+h2{
+    color: #da92e0;
+    font-size: 200%;
+    margin-top: 0%;
+
+}
+
+h3{
+    color: #FFADF0;
+    font-size: 150%;
+}
+
+img{
+    height: 250px;
 }
