@@ -1,0 +1,39 @@
+body{
+    background-color: #FF94CC;
+}
+
+hr{
+    border-style: none;
+    border-top-style: inset;
+    border-color: #371B58;
+    border-width: 3px;
+}
+
+h1{
+    color:  #A239EA;
+    font-size: 500%;
+    margin-bottom: 0%;
+}
+
+h2{
+    color: #7858A6;
+    font-size: 200%;
+    margin-top: 0%;
+
+}
+
+h3{
+    color: #A239EA;
+    font-size: 150%;
+}
+
+img{
+    height: 80px;
+}
+
+.profile{
+    height: 250px;
+}
+#description{
+    color: #5B4B8A;
+}
